@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+abeso.org.br	TRUE	/	FALSE	1999999999	PHPSESSID	7bepf1906sgv7rj1m04g4dmnc3
+
